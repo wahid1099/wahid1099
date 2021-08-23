@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-![Programming_Hero_Certificate_fundamental (1)](https://user-images.githubusercontent.com/40333979/130382837-9058b3da-6ec6-419b-b697-526d133a2e7e.jpg)
+https://user-images.githubusercontent.com/40333979/130382837-9058b3da-6ec6-419b-b697-526d133a2e7e.jpg
