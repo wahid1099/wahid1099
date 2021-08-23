@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Im Half finnish
 
 <br />
+
+
+
+
+![Programming_Hero_Certificate_fundamental (1)](https://user-images.githubusercontent.com/40333979/130383035-f5396ee9-0794-47e3-84f4-069bf61f7fc8.jpg)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -42,5 +48,3 @@ Here are some ideas to get you started:
 
 
 <br />
-<br />
-https://user-images.githubusercontent.com/40333979/130382837-9058b3da-6ec6-419b-b697-526d133a2e7e.jpg![Programming_Hero_Certificate_fundamental (1)](https://user-images.githubusercontent.com/40333979/130382970-53615d19-6d3f-40a1-b473-ff0c850eda3a.jpg)
