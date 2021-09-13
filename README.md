@@ -1,3 +1,4 @@
+![Programming_Hero_Certificate_intermediate](https://user-images.githubusercontent.com/40333979/133120653-a65e224c-c86d-42f4-94e2-bc0f53bf203b.jpg)
 
 ### Hi there 👋
 
