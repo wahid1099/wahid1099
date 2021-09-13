@@ -1,4 +1,4 @@
-![Programming_Hero_Certificate_intermediate](https://user-images.githubusercontent.com/40333979/133120653-a65e224c-c86d-42f4-94e2-bc0f53bf203b.jpg)
+
 
 ### Hi there 👋
 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 ![Programming_Hero_Certificate_fundamental (1)](https://user-images.githubusercontent.com/40333979/130383035-f5396ee9-0794-47e3-84f4-069bf61f7fc8.jpg)
+![Programming_Hero_Certificate_intermediate](https://user-images.githubusercontent.com/40333979/133120653-a65e224c-c86d-42f4-94e2-bc0f53bf203b.jpg)
 
 ### Languages and Tools:
 
