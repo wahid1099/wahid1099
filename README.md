@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Im Half finnish
 
 <br />
-[Programming_Hero_Certificate_advanced](https://user-images.githubusercontent.com/40333979/134769309-76cd0f4b-c631-40d7-a628-c4eb7adcf84b.jpg)
+![Programming_Hero_Certificate_advanced](https://user-images.githubusercontent.com/40333979/134769339-7e0e2693-5506-4ce6-9e17-e3cea0a19144.jpg)
 
 
 <!-- !
+[Programming_Hero_Certificate_advanced](https://user-images.githubusercontent.com/40333979/134769309-76cd0f4b-c631-40d7-a628-c4eb7adcf84b.jpg)
 
 ![Programming_Hero_Certificate_fundamental (1)](https://user-images.githubusercontent.com/40333979/130383035-f5396ee9-0794-47e3-84f4-069bf61f7fc8.jpg)
 ![Programming_Hero_Certificate_intermediate](https://user-images.githubusercontent.com/40333979/133120653-a65e224c-c86d-42f4-94e2-bc0f53bf203b.jpg) -->
