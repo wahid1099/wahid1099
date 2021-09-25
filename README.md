@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-- 🔭 I’m currently working on Fiverr
+- 🔭 I’m currently Studiyng
 - 🌱 I’m currently learning Software Devlopement
 - 👯 I’m looking to collaborate on react 
 - 🤔 I’m looking for help with Aws
