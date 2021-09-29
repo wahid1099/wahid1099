@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently Studiyng
 - 🌱 I’m currently learning Software Devlopement
 - 👯 I’m looking to collaborate on react 
-- 🤔 I’m looking for help with Aws
+- 🤔 I’m looking for help with pwa
 - 💬 Ask me about ...Anything
 - 📫 How to reach me:https://www.youtube.com/channel/UCk04D2qNOIHsY3je73aRFWw/featured
 - 😄 Pronouns: He/Him
