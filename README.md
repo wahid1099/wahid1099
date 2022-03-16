@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahid1099&" alt="wahid1099" /></p>
 
 
+<h2>Web devlopment certificate from programming hero</h2>
 
-![Programming_Hero_Certificate_intermediate](https://user-images.githubusercontent.com/40333979/133120653-a65e224c-c86d-42f4-94e2-bc0f53bf203b.jpg)
-
+![Webdevlopmet-1](https://user-images.githubusercontent.com/40333979/158576555-e55ae00f-461a-4142-b1c9-555b8eacfb00.jpg)
 
