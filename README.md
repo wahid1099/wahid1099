@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/wahid45237631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wahid45237631" height="30" width="40" /></a>
 <a href="https://twitter.com/wahid45237631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahid45237631" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-wahid-645851117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-wahid-645851117/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-wahid1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-wahid-645851117/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12633191/abdul-wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12633191/abdul-wahid" height="30" width="40" /></a>
 <a href="https://fb.com/md.wahid.007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.wahid.007/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul__wahid__007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__wahid__007/" height="30" width="40" /></a>
@@ -43,8 +43,6 @@
 ![](https://raw.githubusercontent.com/wahid1099/cf-stats/main/output/light_card.svg)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/wahid1099"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wahid1099" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahid1099&show_icons=true&locale=en&layout=compact" alt="wahid1099" /></p>
