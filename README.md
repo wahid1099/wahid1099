@@ -2,8 +2,8 @@
 ![github-header-image (9)](https://user-images.githubusercontent.com/40333979/226601544-026dce0c-5504-4175-9f60-67b58c8b0ab1.png)
 
 
-<h1 align="center">Hi 👋, I'm MD WAHID</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm from Bangladesh</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahid1099&label=Profile%20views&color=0e75b6&style=flat" alt="wahid1099" /> </p>
 
