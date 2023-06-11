@@ -56,7 +56,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahid1099&show_icons=true&locale=en" alt="wahid1099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahid1099&" alt="wahid1099" /></p>
-<h2>Recommendation Letter from programming hero</h2>
+<h2><a href="https://drive.google.com/file/d/1lQ81RA8nfFHpSHo4Un3ZX-EvRdMpwysF/view?usp=sharing" target="_blank">Recommendation Letter from programming hero</a></h2>
+
+<h2><a href="https://drive.google.com/file/d/1Juh5hhW6xJZ4VsOBHwREmY3VBZUuLZSy/view?usp=sharing" target="_blank">Recommendation Letter from Phitron</a></h2>
 
 
 
