@@ -61,7 +61,8 @@
 <h2><a href="https://drive.google.com/file/d/1Juh5hhW6xJZ4VsOBHwREmY3VBZUuLZSy/view?usp=sharing" target="_blank">Recommendation Letter from Phitron</a></h2>
 <br/>
 
-![snake gif](https://github.com/wahid1099/wahid1099/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/wahid1099/wahid1099/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
