@@ -62,7 +62,7 @@
 <br/>
 
 ![Snake animation](https://github.com/wahid1099/wahid1099/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/wahid1099/wahid1099/blob/output/github-contribution-grid-snake.gif)
 
 
 
