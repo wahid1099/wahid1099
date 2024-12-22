@@ -51,11 +51,18 @@
 
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahid1099&show_icons=true&locale=en&layout=compact" alt="wahid1099" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahid1099&show_icons=true&locale=en" alt="wahid1099" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahid1099&" alt="wahid1099" /></p>
+<div style="display: flex; width: 100%; box-sizing: border-box;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahid1099&" alt="wahid1099" style="flex: 1; max-width: 50%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/a164400c-edfd-4b8f-b06a-ead357fb9061" alt="Screenshot" style="flex: 1; max-width: 50%; height: auto;" />
+</div>
+
+
+
 <h2><a href="https://drive.google.com/file/d/1lQ81RA8nfFHpSHo4Un3ZX-EvRdMpwysF/view?usp=sharing" target="_blank">Recommendation Letter from programming hero</a></h2>
 
 <h2><a href="https://drive.google.com/file/d/1Juh5hhW6xJZ4VsOBHwREmY3VBZUuLZSy/view?usp=sharing" target="_blank">Recommendation Letter from Phitron</a></h2>
