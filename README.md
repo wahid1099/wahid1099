@@ -58,7 +58,7 @@
 
 <div style="display: flex; width: 100%; box-sizing: border-box;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahid1099&" alt="wahid1099" style="flex: 1; max-width: 50%; height: auto;" />
-    <img src="https://github.com/user-attachments/assets/a164400c-edfd-4b8f-b06a-ead357fb9061" alt="Screenshot" style="flex: 1; max-width: 50%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/a12b48cd-45d3-428a-9631-671fba3a7eaa" alt="Screenshot" style="flex: 1; max-width: 25%; height: 25%;" />
 </div>
 
 
