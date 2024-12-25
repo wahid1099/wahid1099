@@ -155,7 +155,7 @@
 
 <br/>  
 
-![download](https://github.com/user-attachments/assets/67827ceb-d6d2-470e-94cc-e517bcc60e37)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=wahid1099&theme=highcontrast)](https://git.io/streak-stats)
 ![api](https://github.com/user-attachments/assets/d1650d1d-17d7-4e02-87bb-3aae989a8820)
 ![download (1)](https://github.com/user-attachments/assets/32cf5421-586c-475d-a28c-9d0da0b2420d)
 
