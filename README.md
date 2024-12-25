@@ -155,21 +155,22 @@
 
 <br/>  
 
-![](https://raw.githubusercontent.com/wahid1099/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wahid1099/cf-stats/main/output/light_card.svg)
+![download](https://github.com/user-attachments/assets/67827ceb-d6d2-470e-94cc-e517bcc60e37)
+![api](https://github.com/user-attachments/assets/d1650d1d-17d7-4e02-87bb-3aae989a8820)
+![download (1)](https://github.com/user-attachments/assets/32cf5421-586c-475d-a28c-9d0da0b2420d)
 
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahid1099&show_icons=true&locale=en&layout=compact" alt="wahid1099" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahid1099&show_icons=true&locale=en" alt="wahid1099" /></p>
+
+
 
 <div style="display: flex; width: 100%; box-sizing: border-box;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahid1099&" alt="wahid1099" style="flex: 1; max-width: 50%; height: auto;" />
-    <img src="https://github.com/user-attachments/assets/a12b48cd-45d3-428a-9631-671fba3a7eaa" alt="Screenshot" style="flex: 1; max-width: 25%; height: 25%;" />
+  <img src="https://github.com/user-attachments/assets/a12b48cd-45d3-428a-9631-671fba3a7eaa" alt="Screenshot" style="width: 500px; height: 800px;" />
 </div>
+
 
 
 
