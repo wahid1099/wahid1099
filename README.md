@@ -168,7 +168,7 @@
 
 
 <div style="display: flex; width: 100%; box-sizing: border-box;">
-  <img src="https://github.com/user-attachments/assets/a12b48cd-45d3-428a-9631-671fba3a7eaa" alt="Screenshot" style="width: 500px; height: 800px;" />
+<img  src="https://github.com/user-attachments/assets/78ac8e98-6df8-4a5c-b3ac-4f722b5b5ebb"  alt="leetcode" style="width: 500px; height: 800px;"/>
 </div>
 
 
