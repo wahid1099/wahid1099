@@ -15,9 +15,10 @@
 
 - 🔭 I’m currently working on Python [ML](https://github.com/wahid1099/Python_All)
 
-- 👨‍💻 All of my projects are available at [https://github.com/wahid1099](https://github.com/wahid1099)
+* 👨‍💻 All of my projects are available at [GitHub](https://github.com/wahid1099)
 
-- 📝 I regularly write articles on [https://festive-morse-7eb9b8.netlify.app/](https://festive-morse-7eb9b8.netlify.app/)
+* 📝 I regularly write articles and share my work on [My Portfolio](https://eng-wahid-portfoliio.netlify.app/)
+
 
 - 💬 Ask me about **React,DS-ALGO**
 
