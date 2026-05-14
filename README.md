@@ -20,7 +20,7 @@
 * 📝 I regularly write articles and share my work on [My Portfolio](https://eng-wahid-portfoliio.netlify.app/)
 
 
-- 💬 Ask me about **React,DS-ALGO**
+- 💬 Ask me about **System Design,AWS,DS-ALGO,Cloud,Quantum Security**
 
 - 📫 How to reach me **wahidahmed890@gmail.com**
 
